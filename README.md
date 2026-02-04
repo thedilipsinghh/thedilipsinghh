@@ -14,37 +14,28 @@
 
 ### 🛠️ Tech Stack
 
-| Category | Skills |
-| :--- | :--- |
-| **Frontend** | React.js, Tailwind CSS, Redux, TypeScript, Micro Frontend, Electron.js |
-| **Backend** | Node.js, Express.js, MongoDB, Firebase, Microservices Architecture |
-| **Messaging & Caching** | Redis, RabbitMQ |
-| **Desktop Apps** | Electron.js (MERN) |
-| **Other** | Git, GitHub, REST API, Web Scraping |
+**Frontend:**
+React.js, Tailwind CSS, Redux, TypeScript, Micro Frontend, Electron.js.
+
+**Backend:**
+Node.js, Express.js, MongoDB, Firebase, Microservices Architecture.
+
+**Messaging & Caching:**
+Redis, RabbitMQ.
+
+**Desktop Apps:**
+Electron.js (MERN).
+
+**Other:**
+Git, GitHub, REST API, Web Scraping.
 
 <hr>
 
 ### 📬 Let's Connect
 
-[![GitHub](https://img.shields.io)](https://github.com) 
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/thedilipsinghh/) 
-[![Instagram](https://img.shields.io)](https://www.instagram.com/thedilipsinghh) 
-[![Email](https://img.shields.io)](mailto:ds4718421@gmail.com)
+- 🐙 **GitHub:** [thedilipsinghh](https://github.com)
+- 💼 **LinkedIn:** [thedilipsinghh](https://www.linkedin.com)
+- 📸 **Instagram:** [@thedilipsinghh](https://www.instagram.com)
+- 📧 **Email:** [ds4718421@gmail.com](mailto:ds4718421@gmail.com)
 
 ---
-
-
-<!--
-**thedilipsinghh/thedilipsinghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
