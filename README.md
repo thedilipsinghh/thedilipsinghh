@@ -1,27 +1,38 @@
-Hi there, I'm Dilip Singh! 👋
-🚀 Full-Stack MERN Developer | React-Native Developer | Electron.js | Javascript | TypeScript | Freelancer
+# Hi there, I'm Dilip Singh! 👋
 
+### 🚀 Full-Stack MERN Developer | React-Native Developer | Electron.js | Javascript | TypeScript | Freelancer
 
-📌 About Me:
-💻 Passionate about MERN Stack development and building scalable applications.
-⚡ Currently working on Clinic Management , Politician Visitor Management App, Rent Management App.
-🎯 Exploring Firebase and improving my DSA skills in JavaScript.
-🔥 Freelancer offering custom website and mobile app development services.
+---
 
+### 📌 About Me
+- 💻 **Passionate** about MERN Stack development and building scalable applications.
+- ⚡ **Currently working on:** Clinic Management, Politician Visitor Management App, Rent Management App.
+- 🎯 **Exploring:** Firebase and improving my DSA skills in JavaScript.
+- 🔥 **Freelancer** offering custom website and mobile app development services.
 
-🛠️ Tech Stack:
-Frontend: React.js, Tailwind CSS, Redux, TypeScript, Micro Frontend,Electron.js.
-Backend: Node.js, Express.js, MongoDB, Firebase, Microservices Architecture.
-Messaging & Caching: Redis, RabbitMQ.
-Desktop Apps: Electron.js (MERN).
-Other: Git, GitHub, REST API, Web Scraping.
+<hr>
 
+### 🛠️ Tech Stack
 
-📬 Let's Connect:
-GitHub:-thedilipsinghh
-Linkedin:- https://www.linkedin.com/in/thedilipsinghh/
-Instagram:- https://www.instagram.com/thedilipsinghh?igsh=ZXN5OWxwbTN3cTFo
-Email: ds4718421@gmail.com
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | React.js, Tailwind CSS, Redux, TypeScript, Micro Frontend, Electron.js |
+| **Backend** | Node.js, Express.js, MongoDB, Firebase, Microservices Architecture |
+| **Messaging & Caching** | Redis, RabbitMQ |
+| **Desktop Apps** | Electron.js (MERN) |
+| **Other** | Git, GitHub, REST API, Web Scraping |
+
+<hr>
+
+### 📬 Let's Connect
+
+[![GitHub](https://img.shields.io)](https://github.com) 
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/thedilipsinghh/) 
+[![Instagram](https://img.shields.io)](https://www.instagram.com/thedilipsinghh) 
+[![Email](https://img.shields.io)](mailto:ds4718421@gmail.com)
+
+---
+
 
 <!--
 **thedilipsinghh/thedilipsinghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
