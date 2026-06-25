@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilip Singh</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack Developer
+Full Stack Developer | MERN Stack Developer | AI Enthusiast
 </h3>
 
 <p align="center">
@@ -12,13 +12,13 @@ Full Stack Developer | MERN Stack Developer
 
 ## 👨‍💻 About Me
 
-🚀 BCA graduate passionate about building modern web applications.
+🚀 BCA Graduate passionate about building modern web applications.
 
-- 💻 MERN Stack Developer
-- 🌱 Currently improving my Full Stack Development skills
-- 🔥 Building responsive and scalable applications
-- 🎯 Looking for opportunities as a Software Developer
-- ⚡ Love solving problems and creating clean UI/UX
+- 💻 Full Stack Developer focused on MERN Stack
+- 🌱 Improving my skills in scalable backend systems
+- 🤖 Exploring AI Agents and AI-powered applications
+- ⚡ Creating clean, responsive, and user-friendly interfaces
+- 🎯 Looking for Software Developer opportunities
 
 ---
 
@@ -27,28 +27,63 @@ Full Stack Developer | MERN Stack Developer
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,bootstrap" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
-### Tools & Others
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
 </p>
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,python" />
+</p>
+
+---
+
+## 🤖 AI & Modern Development
+
+- AI Agents
+- Generative AI
+- Prompt Engineering
+- LLM Integration
+- AI API Integration
+- LangChain
+- RAG Applications
+- AI-powered Web Applications
+
+---
+
+## ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,vercel,netlify" />
+</p>
+
+- REST API Development
+- JWT Authentication
+- API Testing
+- Cloud Deployment
+- CI/CD
+- Version Control
+- Responsive UI Development
 
 ---
 
 ## 🚀 Projects
 
-### 🌐 Portfolio Website
+### 🌐 Personal Portfolio Website
 
-My personal developer portfolio website.
+My developer portfolio website showcasing my skills and projects.
 
 🔗 Live:
 https://portfolio-website-web-five.vercel.app
@@ -56,11 +91,10 @@ https://portfolio-website-web-five.vercel.app
 
 ---
 
-### ⚡ MERN Stack Projects
+### ⚡ Full Stack Applications
 
-Building full-stack applications using:
+Building applications using:
 
-`React.js` `Node.js` `Express.js` `MongoDB`
 
 ---
 
@@ -72,19 +106,21 @@ Building full-stack applications using:
 
 </p>
 
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedilipsinghh&theme=tokyonight" />
 
 </p>
 
-
 ---
 
 ## 📈 Most Used Languages
 
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedilipsinghh&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
@@ -106,10 +142,8 @@ Building full-stack applications using:
 
 </p>
 
-
-📧 Email: your-email@gmail.com
-
+📧 Email:ds4718421@gmail.com  
 
 ---
 
-⭐ From [Dilip Singh](https://github.com/thedilipsinghh)
+⭐ From <a href="https://github.com/thedilipsinghh">Dilip Singh</a>
