@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dilip Singh</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Dilip+Singh;Full+Stack+Developer;MERN+Stack+Developer;AI+Enthusiast" />
+</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack Developer | AI Enthusiast
+Building modern web applications with clean UI, scalable backend & AI integration 🚀
 </h3>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=thedilipsinghh&label=Profile%20Views&color=blue&style=flat" />
-</p>
 
 ---
 
@@ -85,7 +83,7 @@ Full Stack Developer | MERN Stack Developer | AI Enthusiast
 
 My developer portfolio website showcasing my skills and projects.
 
-🔗 Live:
+🔗 Live Demo:
 https://portfolio-website-web-five.vercel.app
 
 
@@ -105,6 +103,7 @@ Building applications using:
 <img src="https://github-readme-stats.vercel.app/api?username=thedilipsinghh&show_icons=true&theme=tokyonight" />
 
 </p>
+
 
 <p align="center">
 
@@ -142,7 +141,7 @@ Building applications using:
 
 </p>
 
-📧 Email:ds4718421@gmail.com  
+📧 Email: ds4718421@gmail.com
 
 ---
 
